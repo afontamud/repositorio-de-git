@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+header{
+    display: flex;
+    height: 70px;
+    background-color: rgb(10, 204, 10);
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+nav a{
+    font-weight: 600;
+    padding-right: 20px;
+}
+
+nav a:hover{
+    color: antiquewhite;
+}
